@@ -1,0 +1,7 @@
+{
+  "name": "TunisiaFood ERP - Gestion Alimentation Générale",
+  "description": "Système ERP complet pour épiceries tunisiennes incluant POS, gestion de stock (DLC), carnet de crédit client, et rapports financiers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
